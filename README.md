@@ -1,4 +1,3 @@
-# Live Website:-> https://smart-grievance-portal.onrender.com/login
 # 🇮🇳 Smart Grievance Portal
 
 An AI-powered grievance management system developed using **Python Flask**, **SQLite**, **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. The portal allows citizens to submit complaints online, track complaint status, and enables administrators to manage complaints efficiently.
@@ -9,6 +8,8 @@ An AI-powered grievance management system developed using **Python Flask**, **SQ
 
 Smart Grievance Portal is a web-based application designed to simplify the complaint registration and grievance redressal process. The system uses Artificial Intelligence to automatically detect the complaint category, assign priority, and generate an AI score for better complaint management.
 
+---
+# Live Website:-> https://smart-grievance-portal.onrender.com/login
 ---
 
 ## ✨ Key Features

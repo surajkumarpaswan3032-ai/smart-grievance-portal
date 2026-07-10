@@ -1,1 +1,1 @@
-# Live App:-> https://smart-grievance-portal.onrender.com/login
+# Live Website:-> https://smart-grievance-portal.onrender.com/login
